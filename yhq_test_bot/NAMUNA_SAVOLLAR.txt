@@ -1,0 +1,79 @@
+1. O'zbekiston Respublikasi yo'llarida qanday harakat tartibi belgilangan?
+A) Chap tomonlama harakat
+B) O'ng tomonlama harakat
+C) Ikki tomonlama harakat
+D) Erkin harakat
+Javob: B
+Kategoriya: Umumiy qoidalar
+
+2. Haydovchi yonida qanday hujjatlarni olib yurishi shart?
+A) Faqat haydovchilik guvohnomasi
+B) Haydovchilik guvohnomasi va transport vositasi qayd guvohnomasi
+C) Haydovchilik guvohnomasi, qayd guvohnomasi, sug'urta polisi
+D) Faqat texnik pasport
+Javob: C
+Kategoriya: Umumiy qoidalar
+
+3. Xavfsizlik kamarini taqish qanday transport vositalarida majburiy?
+A) Faqat avtomobillarda
+B) Konstruktsiyasida xavfsizlik kamarlari bo'lgan barcha transport vositalarida
+C) Faqat shahar tashqarisida
+D) Faqat yuk avtomobillarida
+Javob: B
+Kategoriya: Umumiy qoidalar
+
+4. Aholi punktlarida yengil avtomobillar uchun maksimal ruxsat etilgan tezlik necha km/soat?
+A) 40 km/soat
+B) 50 km/soat
+C) 60 km/soat
+D) 70 km/soat
+Javob: C
+Kategoriya: Tezlik chegaralari
+
+5. Qizil svetofor signali nimani bildiradi?
+A) Harakatlanishga ruxsat
+B) Harakatlanish taqiqlangan
+C) Ehtiyot bo'lish kerak
+D) Tezlikni oshirish kerak
+Javob: B
+Kategoriya: Svetofor signallari
+
+6. Piyodalar o'tish joyida haydovchi nima qilishi kerak?
+A) Tezligini oshirishi
+B) Piyodalarga yo'l berishi
+C) Signal berishi
+D) Hech narsa qilmasligi
+Javob: B
+Kategoriya: Piyodalar o'tish joyi
+
+7. Avtomagistrallarda yengil avtomobillar uchun maksimal tezlik necha km/soat?
+A) 100 km/soat
+B) 110 km/soat
+C) 120 km/soat
+D) 130 km/soat
+Javob: C
+Kategoriya: Tezlik chegaralari
+
+8. Yashil svetofor signali nimani bildiradi?
+A) Harakatlanish taqiqlangan
+B) Harakatlanishga ruxsat berilgan
+C) To'xtash shart
+D) Orqaga qaytish kerak
+Javob: B
+Kategoriya: Svetofor signallari
+
+9. Turar-joy zonalarida maksimal tezlik necha km/soat?
+A) 10 km/soat
+B) 20 km/soat
+C) 30 km/soat
+D) 40 km/soat
+Javob: B
+Kategoriya: Tezlik chegaralari
+
+10. Temir yo'l kesishmasida to'xtatish mumkinmi?
+A) Ha, har doim
+B) Yo'q, taqiqlangan
+C) Faqat kechasi
+D) Faqat shlyagbaum yopiq bo'lganda
+Javob: B
+Kategoriya: Temir yo'l kesishmalari

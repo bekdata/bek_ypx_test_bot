@@ -1,0 +1,136 @@
+╔══════════════════════════════════════╗
+║   YHQ Test Bot - Ko'rinish Namunasi   ║
+╚══════════════════════════════════════╝
+
+┌────────────────────────────────────┐
+│  📊 Savol 1/80                     │
+├────────────────────────────────────┤
+│                                    │
+│  O'zbekiston Respublikasi yo'l-    │
+│  larida qanday harakat tartibi     │
+│  belgilangan?                      │
+│                                    │
+│  A) Chap tomonlama harakat         │
+│                                    │
+│  B) O'ng tomonlama harakat         │
+│                                    │
+│  C) Ikki tomonlama harakat         │
+│                                    │
+│  D) Erkin harakat                  │
+│                                    │
+├────────────────────────────────────┤
+│  ┌───┬───┬───┬───┐                │
+│  │ a │ b │ c │ d │  ← Tugmalar    │
+│  └───┴───┴───┴───┘                │
+│  ┌──────────────────────────────┐ │
+│  │  📋 Katta testlar bazasi     │ │
+│  └──────────────────────────────┘ │
+└────────────────────────────────────┘
+
+
+JAVOB BERILGANDAN KEYIN:
+┌────────────────────────────────────┐
+│  ✅ To'g'ri!                       │
+│                                    │
+│  ━━━━━━━━━━━━━━━                  │
+│  📊 Natija: ✅ 5 | ❌ 2           │
+│  🎯 To'g'ri javoblar: 71.4%        │
+│  ━━━━━━━━━━━━━━━                  │
+│                                    │
+│  ┌──────────────────────────────┐ │
+│  │   ▶️ Keyingi savol           │ │
+│  └──────────────────────────────┘ │
+│  ┌──────────────────────────────┐ │
+│  │   🏁 Testni yakunlash        │ │
+│  └──────────────────────────────┘ │
+└────────────────────────────────────┘
+
+
+YAKUNIY NATIJA:
+┌────────────────────────────────────┐
+│  🎉 Tabriklaymiz!                  │
+│                                    │
+│  ━━━━━━━━━━━━━━━                  │
+│  📊 YAKUNIY NATIJA                 │
+│                                    │
+│  ✅ To'g'ri javoblar: 72           │
+│  ❌ Noto'g'ri javoblar: 8          │
+│  📝 Jami savollar: 80              │
+│                                    │
+│  🎯 Natija: 90%                    │
+│  ━━━━━━━━━━━━━━━                  │
+│                                    │
+│  🏆 A'lo! Siz ajoyib natija        │
+│     ko'rsatdingiz!                 │
+│                                    │
+│  ┌──────────────────────────────┐ │
+│  │   🔄 Qaytadan boshlash       │ │
+│  └──────────────────────────────┘ │
+└────────────────────────────────────┘
+
+
+ASOSIY MENYU:
+┌────────────────────────────────────┐
+│  Assalomu alaykum, Aziz! 👋        │
+│                                    │
+│  Yo'l harakati qoidalari bo'yicha  │
+│  test botiga xush kelibsiz!        │
+│                                    │
+│  ┌──────────────┬──────────────┐  │
+│  │📝 Testni     │📊 Statistika │  │
+│  │  boshlash    │              │  │
+│  └──────────────┴──────────────┘  │
+│  ┌──────────────┬──────────────┐  │
+│  │ℹ️ Qo'llanma  │👤 Profil     │  │
+│  └──────────────┴──────────────┘  │
+└────────────────────────────────────┘
+
+
+XUSUSIYATLAR:
+
+✨ Chiroyli interfeys
+✨ Progress ko'rsatkichi (Savol 5/80)
+✨ Bir qatorda tugmalar (a, b, c, d)
+✨ Real-time statistika
+✨ Foiz ko'rsatkichi
+✨ Motivatsion xabarlar
+✨ Emoji bilan bezatilgan
+✨ Chiziqlar bilan ajratilgan
+✨ Rasmga o'xshash dizayn
+
+
+ADMIN PANEL:
+
+🔐 Admin Panel
+├─ 👥 Foydalanuvchilar boshqaruvi
+│  ├─ Yangi so'rovlarni tasdiqlash
+│  ├─ Foydalanuvchilarni ko'rish
+│  ├─ Faollashtirish/O'chirish
+│  └─ Butunlay o'chirish
+│
+├─ ❓ Savollar boshqaruvi
+│  ├─ Savol qo'shish
+│  ├─ Savollarni ko'rish
+│  └─ Savollarni o'chirish
+│
+└─ 📊 Statistika
+   ├─ Umumiy foydalanuvchilar
+   ├─ Faol foydalanuvchilar
+   └─ Jami savollar
+
+
+XAVFSIZLIK:
+
+🔒 Bitta qurilma uchun ruxsat
+🔒 Admin tasdiq tizimi
+🔒 Har bir user faqat 1 qurilmadan
+🔒 Device ID nazorati
+
+
+STATISTIKA TIZIMI:
+
+📊 Real-time natijalar
+📈 Foiz hisobi
+📉 To'g'ri/Noto'g'ri soni
+🎯 Yakuniy baho
+🏆 Motivatsion xabarlar
