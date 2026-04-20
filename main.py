@@ -264,7 +264,23 @@ def main():
     application.add_error_handler(error_handler)
     
     # Botni ishga tushirish
+    # Botni ishga tushirish
     logger.info("Bot ishga tushmoqda...")
+    
+    import threading
+    import http.server
+    import socketserver
+    
+    PORT = 10000
+    
+    def run_dummy_server():
+        with socketserver.TCPServer(("", PORT), http.server.BaseHTTPRequestHandler) as httpd:
+            httpd.serve_forever()
+    
+    t = threading.Thread(target=run_dummy_server)
+    t.daemon = True
+    t.start()
+    
     application.run_polling(allowed_updates=Update.ALL_TYPES)
 
 
